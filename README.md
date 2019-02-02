@@ -1,1 +1,1 @@
-# image_repository
+# 我的图床仓库
